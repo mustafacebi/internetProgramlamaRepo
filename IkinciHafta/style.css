@@ -87,21 +87,21 @@ body{
     transition: all 0.375s;
 }
 
-.login-form > button :hover{
-    background: #10449a;
+.login-form > button:hover{
+    background: #093376;
 }
 
 .login-form > a{
     color: #216ce7;
     font-size: 0.9rem;
-    text-align: left;
+    text-align: center;
     text-decoration: none;
     margin-bottom: 6px;
     transition: all 0.375s;
 }
 
-.login-form > a :hover{
-    color: #10449a;
+.login-form > a:hover{
+    color: #002560;
 }
 
 @keyframes rotate{

@@ -1,15 +1,11 @@
 // Models/Student.cs
-public class Student
+namespace OgrenciYonetimApp.Models // Burası TAM OLARAK OgrenciYonetimApp.Models olmalı
 {
-    // Primary Key (Birincil Anahtar)
-    public int Id { get; set; }
-
-    // Öğrenci Adı
-    public string Name { get; set; }
-
-    // Öğrenci Numarası (Tekrarsız olmalı, basitlik için string)
-    public string StudentNumber { get; set; }
-
-    // Öğrencinin bölümü (Basitlik için)
-    public string Department { get; set; }
+    public class Student // Sınıf adı doğru yazılmış olmalı
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string StudentNumber { get; set; }
+        public string Department { get; set; }
+    }
 }

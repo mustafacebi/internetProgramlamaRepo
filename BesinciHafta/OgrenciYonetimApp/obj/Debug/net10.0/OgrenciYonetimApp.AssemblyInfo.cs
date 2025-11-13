@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OgrenciYonetimApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75caad9d3455cca078f8f25f31803f0ab9a20066")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1ebe0413cf8982f64ade8ab2b4659686b4a44ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("OgrenciYonetimApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OgrenciYonetimApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
